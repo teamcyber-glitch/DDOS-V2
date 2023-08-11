@@ -15,6 +15,7 @@ These tools are used as test tools for websites
 </div>
 <h2 align="center"> INSTALLATION </h2>
 <details open>
+ <summary><strong> Instalation And Run </strong></summary>
  ```bash 
  pkg update && pkg upgrade
  apt-get update && apt-get upgrade
