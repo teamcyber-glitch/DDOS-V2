@@ -16,6 +16,7 @@ These tools are used as test tools for websites
 <h2 align="center"> INSTALLATION </h2>
 <details open>
  <summary><strong> Instalation And Run </strong></summary>
+
  ```bash 
  pkg update && pkg upgrade
  apt-get update && apt-get upgrade
@@ -27,4 +28,5 @@ These tools are used as test tools for websites
  python3 setup.py
  python3 main.py
  ```
-</details>
+ 
+ </details>
