@@ -34,8 +34,9 @@ These tools are used as test tools for websites
 <details open>
  <summary><strong> Tutorial to Update </strong></summary>
 
- ```bash 
+ ```bash
  cd DDOS-V2
+ git pull
  python3 update.py
  ```
  
