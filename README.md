@@ -30,3 +30,13 @@ These tools are used as test tools for websites
  ```
  
  </details>
+ <h2 align="center"> HOW UPDATE </h2>
+<details open>
+ <summary><strong> Tutorial to Update </strong></summary>
+
+ ```bash 
+ cd DDOS-V2
+ python3 update.py
+ ```
+ 
+ </details>
