@@ -13,9 +13,9 @@ These tools are used as test tools for websites
 <div align="center">
 <img src="https://i.ibb.co/Tt83NN8/Screenshot-2023-08-11-16-17-49-64-84d3000e3f4017145260f7618db1d683.jpg" alt="Screenshot-2023-08-11-16-17-49-64-84d3000e3f4017145260f7618db1d683" border="0">
 </div>
-<h2 align="center"> INSTALLATION </h2>
+<h2 align="center"> INSTALLATION and UPDATE </h2>
 <details open>
- <summary><strong> Instalation And Run </strong></summary>
+ <summary><strong> Installation and Run </strong></summary>
 
  ```bash 
  pkg update && pkg upgrade
@@ -30,9 +30,10 @@ These tools are used as test tools for websites
  ```
  
  </details>
- <h2 align="center"> HOW UPDATE </h2>
 <details open>
- <summary><strong> Tutorial to Update </strong></summary>
+ <summary><strong> HOW TO UPDATE </strong></summary>
+ This Tools is Premium Attack, I will Help about Updated Information <br>
+ Now support me for contribute about DDOS ATTACK
 
  ```bash
  cd DDOS-V2
