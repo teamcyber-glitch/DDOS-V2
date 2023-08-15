@@ -12,6 +12,7 @@ print("""\33[0;32m[0] pip\n[1] pip3\nWhich one do you use?""")
 
 c = input(">>>: ")
 if c == "0":
+    os.system("rm -rf resources")
     os.system("pip install cloudscraper")
     os.system("pip install socks")
     os.system("pip install pysocks")
