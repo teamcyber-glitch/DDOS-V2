@@ -12,6 +12,7 @@ print("""\33[0;32m[0] pip\n[1] pip3\nWhich one do you use?""")
 
 c = input(">>>: ")
 if c == "0":
+    os.system("rm -rf update.py")
     os.system("unzip resources.zip")
     os.system("rm -rf resources.zip")
     os.system("pip install cloudscraper")
@@ -23,6 +24,7 @@ if c == "0":
     os.system("cd resources && mv proxy.txt /$HOME/DDOS-V2")
 
 elif c == "1":
+    os.system("rm -rf update.py")
     os.system("unzip resources.zip")
     os.system("rm -rf resources.zip")
     os.system("pip3 install cloudscraper")
