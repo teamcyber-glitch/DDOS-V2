@@ -25,7 +25,6 @@ These tools are used as test tools for websites
  pip install --upgrade pip
  git clone https://github.com/teamcyber-glitch/DDOS-V2
  cd DDOS-V2
- python3 update.py
  python3 setup.py
  python3 main.py
  ```
