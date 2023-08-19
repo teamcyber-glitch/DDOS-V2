@@ -21,7 +21,7 @@ if c == "0":
     os.system("pip install undetected_chromedriver")
     os.system("pip install httpx")
     os.system("cd resources && mv proxy.txt /$HOME/DDOS-V2")
-    os.system("rm -rf update.py")
+    os.system("rm -rf upgrade.py")
 
 elif c == "1":
     os.system("unzip resources.zip")
@@ -33,7 +33,7 @@ elif c == "1":
     os.system("pip3 install undetected_chromedriver")
     os.system("pip3 install httpx")
     os.system("cd resources && mv proxy.txt /$HOME/DDOS-V2")
-    os.system("rm -rf update.py")
+    os.system("rm -rf upgrade.py")
 if os.name == "nt":
     pass
 else:
