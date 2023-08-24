@@ -35,7 +35,7 @@ These tools are used as test tools for websites
  ```bash
  cd DDOS-V2
  git pull
- python3 brandupdate.py
+ python3 brandupgrade.py
  python3 main.py
  ```
  
