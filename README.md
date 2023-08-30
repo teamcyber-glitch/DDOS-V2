@@ -47,5 +47,5 @@ STRONGER AND 2500 UP FOR TESTING ⚠️
  <img src="https://i.ibb.co/JxKqJVP/IMG-20230814-112458.jpg" alt="IMG-20230814-112458" border="0">
  <img src="https://i.ibb.co/zxFFfpT/IMG-20230814-114719.jpg" alt="IMG-20230814-114719" border="0">
  <img src="https://i.ibb.co/j8Gx4ST/IMG-20230820-110401.jpg" alt="IMG-20230820-110401" border="0">
- <img src="https://i.ibb.co/M6M95Yv/Screenshot-2023-08-24-12-07-33-21-948cd9899890cbd5c2798760b2b95377.jpg" alt="Screenshot-2023-08-24-12-07-33-21-948cd9899890cbd5c2798760b2b95377" border="0">
+ <img src="https://i.ibb.co/CK53pYH/IMG-20230830-230707.jpg" alt="IMG-20230830-230707" border="0">
 </div>
