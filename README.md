@@ -35,7 +35,7 @@ These tools are used as test tools for websites
  ```bash
  cd DDOS-V2
  git pull
- python3 superupdate3.py
+ python3 newup.py
  cd resources
  npm i requests
  npm i https-proxy-agent
@@ -49,6 +49,7 @@ These tools are used as test tools for websites
  npm i randomstring
  npm i cluster
  npm i cloudflare-bypasser
+ npm audit fix
  pip3 install -r requirements.txt
  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
  apt-get install ./google-chrome-stable_current_amd64.deb
