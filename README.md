@@ -35,7 +35,7 @@ These tools are used as test tools for websites
  ```bash
  cd DDOS-V2
  git pull
- python3 newup1.py
+ python3 newup2.py
  cd resources
  npm i requests
  npm i https-proxy-agent
