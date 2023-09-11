@@ -23,7 +23,6 @@ These tools are used as test tools for websites
  git clone https://github.com/teamcyber-glitch/DDOS-V2
  cd DDOS-V2
  python3 setup.py
- python3 main.py
  ```
  
  </details>
@@ -35,7 +34,7 @@ These tools are used as test tools for websites
  ```bash
  cd DDOS-V2
  git pull
- python3 newup2.py
+ python3 newup3.py
  cd resources
  npm i requests
  npm i https-proxy-agent
