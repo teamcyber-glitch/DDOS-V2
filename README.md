@@ -19,6 +19,13 @@ These tools are used as test tools for websites
  apt-get update && apt-get upgrade
  pkg install python && pkg install python2 && pkg install python3
  pkg install git
+ pkg install golang
+ pkg install npm
+ pkg install nodejs
+ pkg install openjdk-17
+ pkg install python-pip
+ pkg install python3-pip
+ pip install requests
  pip install --upgrade pip
  git clone https://github.com/teamcyber-glitch/DDOS-V2
  cd DDOS-V2
@@ -35,9 +42,10 @@ These tools are used as test tools for websites
  ```bash
  cd DDOS-V2
  git pull
- python3 special.py
+ python3 versi1.py
  pip install -r requirements.txt
  cd resources
+
  npm i requests
  npm i https-proxy-agent
  npm i crypto-random-string
@@ -56,6 +64,7 @@ These tools are used as test tools for websites
  apt-get install ./google-chrome-stable_current_amd64.deb
  ulimit -n 999999
  chmod 777 *
+
  cd
  cd DDOS-V2
  python3 main.py
