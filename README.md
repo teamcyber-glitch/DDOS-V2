@@ -42,12 +42,10 @@ These tools are used as test tools for websites
  ```bash
  cd DDOS-V2
  git pull
- python3 versi2.py
+ python3 versi3.py
  pip install -r requirements.txt
  cd resources
  bash install.sh
- ulimit -n 999999
- chmod 777 *
 
  cd
  cd DDOS-V2
