@@ -43,13 +43,6 @@ These tools are used as test tools for websites
  cd DDOS-V2
  git pull
  python3 versi5.py
- pip install -r requirements.txt
- cd resources
- bash install.sh
-
- cd
- cd DDOS-V2
- python3 main.py
  ```
  
  </details>
