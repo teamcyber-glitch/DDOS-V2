@@ -42,7 +42,7 @@ These tools are used as test tools for websites
  ```bash
  cd DDOS-V2
  git pull
- python3 versi4.py
+ python3 versi5.py
  pip install -r requirements.txt
  cd resources
  bash install.sh
