@@ -27,6 +27,10 @@ if c == "0":
     os.system("pip install undetected_chromedriver")
     os.system("pip install httpx")
     os.system("rm -rf versi5.py")
+    os.system("cd resources && bash install.sh")
+    os.system("cd resources && cd node_modules && cd hang && chmod 777 *")
+    os.system("cd")
+    os.system("cd DDOS-V2 && python3 main.py")
 
 elif c == "1":
     os.system("unzip resources.zip")
@@ -44,6 +48,10 @@ elif c == "1":
     os.system("pip3 install undetected_chromedriver")
     os.system("pip3 install httpx")   
     os.system("rm -rf versi5.py")
+    os.system("cd resources && bash install.sh")
+    os.system("cd resources && cd node_modules && cd hang && chmod 777 *")
+    os.system("cd")
+    os.system("cd DDOS-V2 && python3 main.py")
 if os.name == "nt":
     pass
 else:
