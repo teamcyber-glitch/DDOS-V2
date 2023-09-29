@@ -31,6 +31,9 @@ if c == "1":
     time.sleep(2)
     os.system("pip3 install -r requirements.txt")
     os.system("cd resources && bash install.sh")
+    os.system("cd resources && cd node_modules && cd hang && chmod 777 *")
+    os.system("cd")
+    os.system("cd DDOS-V2")
     os.system("rm -rf versi5.py")
 
 elif c == "2":
